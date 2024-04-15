@@ -6,6 +6,6 @@ functions:
   starbot:
     lang: node18
     handler: ./starbot
-    image: journeyman33/starbot:latest
+    image: journeyman33/openfaas_functions/starbot:latest
 
 
